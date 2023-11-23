@@ -1,4 +1,4 @@
-Hi, I'm Evan Losh. I am currently learning fullstack web development with Flatiron School. You can reach me through LinkedIn.
+Hi, I'm Evan Losh. I am currently learning fullstack web development with Flatiron School's bootcamp for software engineering. You can find me on LinkedIn.
 
 <!---
 EvanLosh/EvanLosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
